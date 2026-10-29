@@ -1,4 +1,4 @@
-# Abstract Website
+# 💎 Abstract Website
 
 A modern, responsive, and performant web application rebuilt using **Next.js 16 (App Router)**, **TypeScript**, and **Tailwind CSS**. 
 
@@ -72,4 +72,17 @@ pnpm dev
 ```
 Then open http://localhost:3000 with your browser to see the application in action.
 
-# Created by Saba Shirazi
+---
+
+<div align="center">
+
+⭐ If you liked this project, support it by giving it a star!
+
+Made with 🤍
+
+</div>
+
+---
+
+👤 Author
+Saba Shirazi
